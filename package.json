@@ -1,0 +1,15 @@
+{
+  "name": "company-profile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.10",
+    "express": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
